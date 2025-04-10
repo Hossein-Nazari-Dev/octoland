@@ -1,4 +1,4 @@
-# octoland
+# OctoLand
 
 Octo Land is an advanced Grasshopper plugin for landscape design and analysis. It provides tools for extracting and analyzing morphological characteristics of terrain surfaces, such as elevation, surface normals, and more. Designed with performance and usability in mind, Octo Land simplifies workflows for architects, landscape designers, and engineers working on complex surface-based terrain designs.
 
